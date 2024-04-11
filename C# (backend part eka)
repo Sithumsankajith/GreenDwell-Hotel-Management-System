@@ -1,0 +1,38 @@
+using System;
+using System.Collections.Generic;
+
+namespace HotelManagementSystem
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            
+            Dictionary<string, string> users = new Dictionary<string, string>()
+            {
+                { "admin", "admin@123" },
+                { "user", "user@123" }
+            };
+
+            Console.WriteLine("Welcome to Hotel Management System");
+
+           
+            Console.Write("Enter username: ");
+            string username = Console.ReadLine();
+
+            Console.Write("Enter password: ");
+            string password = Console.ReadLine();
+
+            
+            if (users.ContainsKey(username) && users[username] == password)
+            {
+                Console.WriteLine("Login successful!");
+                
+            }
+            else
+            {
+                Console.WriteLine("Invalid username or password. Please try again.");
+            }
+        }
+    }
+}
