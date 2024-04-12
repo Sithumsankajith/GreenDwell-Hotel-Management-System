@@ -1,0 +1,24 @@
+C:\Users\WINDOWS 10\source\repos\LoginRegistrationForm\LoginRegistrationForm\bin\Debug\LoginRegistrationForm.exe.config
+C:\Users\WINDOWS 10\source\repos\LoginRegistrationForm\LoginRegistrationForm\bin\Debug\LoginRegistrationForm.exe
+C:\Users\WINDOWS 10\source\repos\LoginRegistrationForm\LoginRegistrationForm\bin\Debug\LoginRegistrationForm.pdb
+C:\Users\WINDOWS 10\source\repos\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\source\repos\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.Form1.resources
+C:\Users\WINDOWS 10\source\repos\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.Properties.Resources.resources
+C:\Users\WINDOWS 10\source\repos\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.csproj.GenerateResource.cache
+C:\Users\WINDOWS 10\source\repos\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\source\repos\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.exe
+C:\Users\WINDOWS 10\source\repos\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.pdb
+C:\Users\WINDOWS 10\source\repos\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.Signup.resources
+C:\Users\WINDOWS 10\source\repos\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.MainForm.resources
+C:\Users\user\Downloads\LoginRegistrationFormUsingCSharp-main\LoginRegistrationFormUsingCSharp-main\LoginRegistrationForm\LoginRegistrationForm\bin\Debug\LoginRegistrationForm.exe.config
+C:\Users\user\Downloads\LoginRegistrationFormUsingCSharp-main\LoginRegistrationFormUsingCSharp-main\LoginRegistrationForm\LoginRegistrationForm\bin\Debug\LoginRegistrationForm.exe
+C:\Users\user\Downloads\LoginRegistrationFormUsingCSharp-main\LoginRegistrationFormUsingCSharp-main\LoginRegistrationForm\LoginRegistrationForm\bin\Debug\LoginRegistrationForm.pdb
+C:\Users\user\Downloads\LoginRegistrationFormUsingCSharp-main\LoginRegistrationFormUsingCSharp-main\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\LoginRegistrationFormUsingCSharp-main\LoginRegistrationFormUsingCSharp-main\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.Form1.resources
+C:\Users\user\Downloads\LoginRegistrationFormUsingCSharp-main\LoginRegistrationFormUsingCSharp-main\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.MainForm.resources
+C:\Users\user\Downloads\LoginRegistrationFormUsingCSharp-main\LoginRegistrationFormUsingCSharp-main\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.Properties.Resources.resources
+C:\Users\user\Downloads\LoginRegistrationFormUsingCSharp-main\LoginRegistrationFormUsingCSharp-main\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.Signup.resources
+C:\Users\user\Downloads\LoginRegistrationFormUsingCSharp-main\LoginRegistrationFormUsingCSharp-main\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.csproj.GenerateResource.cache
+C:\Users\user\Downloads\LoginRegistrationFormUsingCSharp-main\LoginRegistrationFormUsingCSharp-main\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\LoginRegistrationFormUsingCSharp-main\LoginRegistrationFormUsingCSharp-main\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.exe
+C:\Users\user\Downloads\LoginRegistrationFormUsingCSharp-main\LoginRegistrationFormUsingCSharp-main\LoginRegistrationForm\LoginRegistrationForm\obj\Debug\LoginRegistrationForm.pdb
