@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\AMRConnector\AMRConnector\bin\Debug\AMRConnector.dll
+C:\Users\hp\source\repos\AMRConnector\AMRConnector\bin\Debug\AMRConnector.pdb
+C:\Users\hp\source\repos\AMRConnector\AMRConnector\obj\Debug\AMRDbConnector.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\AMRConnector\AMRConnector\obj\Debug\AMRDbConnector.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\AMRConnector\AMRConnector\obj\Debug\AMRConnector.dll
+C:\Users\hp\source\repos\AMRConnector\AMRConnector\obj\Debug\AMRConnector.pdb

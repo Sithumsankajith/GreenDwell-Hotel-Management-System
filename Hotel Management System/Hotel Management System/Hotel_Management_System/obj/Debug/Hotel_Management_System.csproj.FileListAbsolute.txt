@@ -1,0 +1,35 @@
+C:\Users\hp\source\repos\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.exe.config
+C:\Users\hp\source\repos\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.exe
+C:\Users\hp\source\repos\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.pdb
+C:\Users\hp\source\repos\Hotel_Management_System\Hotel_Management_System\bin\Debug\AMRConnector.dll
+C:\Users\hp\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.FormLogIn.resources
+C:\Users\hp\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Properties.Resources.resources
+C:\Users\hp\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.csproj.CopyComplete
+C:\Users\hp\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.exe
+C:\Users\hp\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.pdb
+C:\Users\hp\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.FormDashboard.resources
+C:\Users\hp\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.User_Control.UserControlSetting.resources
+C:\Users\hp\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.User_Control.UserControlClient.resources
+C:\Users\hp\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.User_Control.UserControlRoom.resources
+C:\Users\hp\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.User_Control.UserControlReservation.resources
+C:\Users\hp\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.User_Control.UserControlDashboard.resources
+D:\UNI\c#\greendwell hms\Hotel Management System\Hotel Management System\Hotel_Management_System\obj\Debug\Hotel_Management_System.csproj.AssemblyReference.cache
+D:\UNI\c#\greendwell hms\Hotel Management System\Hotel Management System\Hotel_Management_System\obj\Debug\Hotel_Management_System.exe
+D:\UNI\c#\greendwell hms\Hotel Management System\Hotel Management System\Hotel_Management_System\obj\Debug\Hotel_Management_System.pdb
+D:\UNI\c#\greendwell hms\Hotel Management System\Hotel Management System\Hotel_Management_System\bin\Debug\Hotel_Management_System.exe.config
+D:\UNI\c#\greendwell hms\Hotel Management System\Hotel Management System\Hotel_Management_System\bin\Debug\Hotel_Management_System.exe
+D:\UNI\c#\greendwell hms\Hotel Management System\Hotel Management System\Hotel_Management_System\bin\Debug\Hotel_Management_System.pdb
+D:\UNI\c#\greendwell hms\Hotel Management System\Hotel Management System\Hotel_Management_System\obj\Debug\Hotel_Management_System.FormDashboard.resources
+D:\UNI\c#\greendwell hms\Hotel Management System\Hotel Management System\Hotel_Management_System\obj\Debug\Hotel_Management_System.FormLogIn.resources
+D:\UNI\c#\greendwell hms\Hotel Management System\Hotel Management System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Properties.Resources.resources
+D:\UNI\c#\greendwell hms\Hotel Management System\Hotel Management System\Hotel_Management_System\obj\Debug\Hotel_Management_System.User_Control.UserControlClient.resources
+D:\UNI\c#\greendwell hms\Hotel Management System\Hotel Management System\Hotel_Management_System\obj\Debug\Hotel_Management_System.User_Control.UserControlDashboard.resources
+D:\UNI\c#\greendwell hms\Hotel Management System\Hotel Management System\Hotel_Management_System\obj\Debug\Hotel_Management_System.User_Control.UserControlReservation.resources
+D:\UNI\c#\greendwell hms\Hotel Management System\Hotel Management System\Hotel_Management_System\obj\Debug\Hotel_Management_System.User_Control.UserControlRoom.resources
+D:\UNI\c#\greendwell hms\Hotel Management System\Hotel Management System\Hotel_Management_System\obj\Debug\Hotel_Management_System.User_Control.UserControlSetting.resources
+D:\UNI\c#\greendwell hms\Hotel Management System\Hotel Management System\Hotel_Management_System\obj\Debug\Hotel_Management_System.csproj.GenerateResource.cache
+D:\UNI\c#\greendwell hms\Hotel Management System\Hotel Management System\Hotel_Management_System\obj\Debug\Hotel_Management_System.csproj.CoreCompileInputs.cache
+D:\UNI\c#\greendwell hms\Hotel Management System\Hotel Management System\Hotel_Management_System\obj\Debug\Hotel_Ma.35818AF1.Up2Date
